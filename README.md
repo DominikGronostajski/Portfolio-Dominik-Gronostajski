@@ -1,6 +1,6 @@
 # Portfolio
 # About me
-My name is Dominik Gronostajski and I have worked in fitness industry for 7 years but I needed new challenges and decided to pursue my other passions and found it exciting and challenging. I have already taken first steps in software testing and I hope to move forward fast. I offer an open mind and eagerness to learn new things and grow. I am looking forward to working with you!
+I have worked in fitness industry for 7 years but I needed new challenges and decided to pursue my other passions. Previously, I was looking for irregularities in human body, now I am dedicated to do the same with software. I have already taken first steps in testing and I hope to move forward fast. I offer an open mind and eagerness to learn new things and grow. I am looking forward to working with you!
 # Tools
   - [Jing](https://www.techsmith.com/jing-tool.html) - Screen capture software
   - [Postman](https://www.postman.com/) - Testing tool for REST API
