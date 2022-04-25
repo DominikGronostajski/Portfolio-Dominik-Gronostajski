@@ -1,53 +1,55 @@
 # Portfolio
+
 # About me
 I have worked in fitness industry for 7 years but I needed new challenges and decided to pursue my other passions. Previously, I was looking for irregularities in human body, now I am dedicated to do the same with software. I have already taken first steps in testing and I hope to move forward fast. I offer an open mind and eagerness to learn new things and grow. I am looking forward to working with you!
+
+# Experience
+- Functional Games Tester, [Lionbridge Technologies](https://www.lionbridge.com), October 2021 - Present
+
+# Responsibilities:
+- Verifying that the product meet all functional requirement specifications, with black box, exploratory and user acceptance test methodologies.
+- Validating that product updates and enhancements have not introduced new bugs, with continuous functional and non-functional regression testing.
+
 # Tools
   - [ShareX](https://getsharex.com/), [PicPick](https://picpick.app/en/) - Screen capture software
   - [Postman](https://www.postman.com/) - Testing tool for REST API
-  - [Jira](https://www.atlassian.com/software/jira0), [Trello](https://trello.com/) - Issue tracking and project management tool for developers
-
+  - [Jira](https://www.atlassian.com/software/jira0), [qTest](https://www.tricentis.com/products/unified-test-management-qtest/test-case-manager), [Trello](https://trello.com/) - Issue tracking and project management tools for developers
+  - [Oracle](https://www.oracle.com), [MySQL](https://www.mysql.com) - Database management systems
+  - [MS Office](https://www.office.com), [MS Azure DevOps](https://azure.microsoft.com/pl-pl/services/devops)
   - Github
 
 # Tech skills
   - SQL
   - DevTools
-  - SCRUM
+  - Scrum, Kanban, Agile
   - Software testing
   - Creating test cases
   - Reporting bugs
-  - Finding uniqe CSS Selectors and xPaths
-  - Creating diagrams and decision tables
+
 # Certificates
-  - [ISTQB](https://www.gasq.org/en/certification/check-a-certificate.html) - No. 73599
+  - [ISTQB]
+
 # Courses
-  - [CODE:ME Podstawy testowania w praktyce](https://codeme.pl/testowanie-poznan/)
-  - Gfi Technology Academy
+  - [Become a Tester](https://sii.pl/en/trainings/offer/zostan-testerem/) - Sii Sp. Z o.o.
+  - Basic Postman - testing REST API - Udemy 04.2022
+  - Oracle SQL Course - Learn how to write precise queries - Udemy 04.2022
+  - [Practical Manual Software Testing](https://www.udemy.com/certificate/UC-593ec40a-be90-4c1f-aa00-0a6bc4270e15) - Udemy 04.2022
+  - Oracle SQL - learn how to create databases - Udemy 04.2022
+  - [MySQL - creating and managing databases](https://www.udemy.com/certificate/UC-b8d7836c-b1e0-4f54-91ec-9826fb0261f1) - Udemy 04.2022
+  - [JIRA for beginners](https://www.udemy.com/certificate/UC-b20a0038-122b-44cd-af8d-02bfbae58a2e) - Udemy 02.2022
+  - [Manual Software Testing for Beginners](https://www.udemy.com/certificate/UC-4af5cb0a-c9f4-40e3-a769-fb7393e7a7ed) - Udemy 09.2021 
+
 # Books
   - R.Smilgin - Zawód tester
-# Groups on Facebook
-  - Tester oprogramowania - wsparcie na starcie
-  - Testowanie oprogramowania
-  - Girls Who Tests
-  - Gildia Testerów
-# Recommended blogs
-  - testerzy.pl
-  - testuj.pl - Test, Bugs & Rock'n'Roll
-  - remigiuszbednarczyk.pl
-  - pwicherski.gitbook.io
-  - GeekON
+
 # Webinars
-  - GeekON - praktyczne ćwiczenie SQL
-  - Szkoła testera - podstawy testowania
-# Articles
-  - [Article about creating portfolio in GitHub using my portfolio as example](https://remigiuszbednarczyk.pl/portfolio-testera?fbclid=IwAR2jX5Kqys6g0o9xi0qkzqhDKy3p0hIHajaN8dO6NFyh5w1NwMnlQrq8-aQ)
+
 # My test case examples
   - [Test cases for site lubimyczytac.pl](https://drive.google.com/file/d/1D0U3e0dmMuxV9BhgH6o3SbcsDLrxSCTp/view)
 # My bug reports
   - [Bugs reported for jakdojade.pl site](https://drive.google.com/file/d/1sT9iaFAbBvyUNfqiVNUetuxjsRdTjKRV/view)
-# My examples of diagrams and decision tables
-  - [Diagrams and decision tables for stoper, railway lights and registration](https://drive.google.com/file/d/1jDg-xa5rFRCqwA4Cl1hcMg7UcEmo09Ky/view)
-# My examples of CSS Selectors and xPaths
-  - [Finding uniqe CSS Selectors and xPaths on site ikea.pl](https://drive.google.com/file/d/1lmKfiTYA3y2gaFRNU5nNoFZy0evKpy3a/view)
+
+
 # My projects
   - Group project - leader - testing site [allegro.pl](https://allegro.pl/)
      - [Tablica trello.com](https://trello.com/b/fZE6cidI/allegropl)
