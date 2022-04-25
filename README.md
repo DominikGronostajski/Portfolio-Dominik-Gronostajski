@@ -2,7 +2,7 @@
 # About me
 I have worked in fitness industry for 7 years but I needed new challenges and decided to pursue my other passions. Previously, I was looking for irregularities in human body, now I am dedicated to do the same with software. I have already taken first steps in testing and I hope to move forward fast. I offer an open mind and eagerness to learn new things and grow. I am looking forward to working with you!
 # Tools
-  - [ShareX] (https://getsharex.com/), [PicPick] (https://picpick.app/en/) - Screen capture software
+  - [ShareX](https://getsharex.com/), [PicPick](https://picpick.app/en/) - Screen capture software
   - [Postman](https://www.postman.com/) - Testing tool for REST API
   - [Jira](https://www.atlassian.com/software/jira0), [Trello](https://trello.com/) - Issue tracking and project management tool for developers
 
