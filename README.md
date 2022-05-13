@@ -16,11 +16,11 @@ I have worked in fitness industry for 7 years but I needed new challenges and de
   - [Jira](https://www.atlassian.com/software/jira0), [qTest](https://www.tricentis.com/products/unified-test-management-qtest/test-case-manager), [Trello](https://trello.com/) - Issue tracking and project management tools for developers
   - [Oracle](https://www.oracle.com), [MySQL](https://www.mysql.com) - Database management systems
   - [MS Office](https://www.office.com), [MS Azure DevOps](https://azure.microsoft.com/pl-pl/services/devops)
+  - [Linux](https://ubuntu.com) - Operating system
   - Github
 
 # Tech skills
   - SQL
-  - Postman
   - Chrome DevTools
   - Scrum, Kanban, Agile
   - Software testing
