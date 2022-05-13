@@ -13,7 +13,7 @@ I have worked in fitness industry for 7 years but I needed new challenges and de
 # Tools
   - [ShareX](https://getsharex.com/), [PicPick](https://picpick.app/en/) - Screen capture software
   - [Postman](https://www.postman.com/) - Testing tool for REST API
-  - [Jira](https://www.atlassian.com/software/jira0), [qTest](https://www.tricentis.com/products/unified-test-management-qtest/test-case-manager), [Trello](https://trello.com/) - Issue tracking and project management tools for developers
+  - [Jira](https://www.atlassian.com/software/jira0), [qTest](https://www.tricentis.com/products/unified-test-management-qtest/test-case-manager), [TestLink](https://testlink.org), [Trello](https://trello.com/) - Issue tracking and project management tools for developers
   - [Oracle](https://www.oracle.com), [MySQL](https://www.mysql.com) - Database management systems
   - [MS Office](https://www.office.com), [MS Azure DevOps](https://azure.microsoft.com/pl-pl/services/devops)
   - [Linux](https://ubuntu.com) - Operating system
@@ -21,6 +21,7 @@ I have worked in fitness industry for 7 years but I needed new challenges and de
 
 # Tech skills
   - SQL
+  - Testing API
   - Chrome DevTools
   - Scrum, Kanban, Agile
   - Software testing
