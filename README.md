@@ -20,7 +20,8 @@ I have worked in fitness industry for 7 years but I needed new challenges and de
 
 # Tech skills
   - SQL
-  - DevTools
+  - Postman
+  - Chrome DevTools
   - Scrum, Kanban, Agile
   - Software testing
   - Creating test cases
@@ -31,10 +32,10 @@ I have worked in fitness industry for 7 years but I needed new challenges and de
 
 # Courses
   - [Become a Tester](https://sii.pl/en/trainings/offer/zostan-testerem/) - Sii Sp. Z o.o.
+  - [Manual Software Testing - Workshop](https://kursy.czyitjestdlamnie.pl/kurs/273/warsztaty-testowanie-manualne-aplikacji-termin-10052022-1900-2130) - Ifs&Whiles 05.2022
   - Basic Postman - testing REST API - Udemy 04.2022
   - Oracle SQL Course - Learn how to write precise queries - Udemy 04.2022
   - [Practical Manual Software Testing](https://www.udemy.com/certificate/UC-593ec40a-be90-4c1f-aa00-0a6bc4270e15) - Udemy 04.2022
-  - Oracle SQL - learn how to create databases - Udemy 04.2022
   - [MySQL - creating and managing databases](https://www.udemy.com/certificate/UC-b8d7836c-b1e0-4f54-91ec-9826fb0261f1) - Udemy 04.2022
   - [JIRA for beginners](https://www.udemy.com/certificate/UC-b20a0038-122b-44cd-af8d-02bfbae58a2e) - Udemy 02.2022
   - [Manual Software Testing for Beginners](https://www.udemy.com/certificate/UC-4af5cb0a-c9f4-40e3-a769-fb7393e7a7ed) - Udemy 09.2021 
@@ -42,12 +43,11 @@ I have worked in fitness industry for 7 years but I needed new challenges and de
 # Books
   - R.Smilgin - Zawód tester
 
-# Webinars
-
 # My test case examples
-  - [Test cases for site lubimyczytac.pl](https://drive.google.com/file/d/1D0U3e0dmMuxV9BhgH6o3SbcsDLrxSCTp/view)
+  
+ 
 # My bug reports
-  - [Bugs reported for jakdojade.pl site](https://drive.google.com/file/d/1sT9iaFAbBvyUNfqiVNUetuxjsRdTjKRV/view)
+
 
 
 # My projects
