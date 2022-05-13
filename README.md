@@ -54,7 +54,7 @@ I have worked in fitness industry for 7 years but I needed new challenges and de
 # My projects
   - Group project - leader - testing site [allegro.pl](https://allegro.pl/)
      - [Tablica trello.com](https://trello.com/b/fZE6cidI/allegropl)
-  - Individual project - testing site [zara.com](https://www.zara.com/pl/)
+  - Individual project - Testing site [zara.com](https://www.zara.com/pl/)
      - [Report](https://drive.google.com/file/d/1AlygpsNK0Og1H7g8RRQjQs1e9LRotXYw/view)
      - [Test cases](https://drive.google.com/file/d/1Uq7kXvy8JQsqhCOky5Yaqh4KbcbLyH9x/view)
      - [Test cases - regression testing](https://drive.google.com/file/d/1R5v7_HHsPG_CWcFRJJl0OmJ2qRvBJSNE/view)
