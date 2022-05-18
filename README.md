@@ -47,4 +47,4 @@ I have worked in fitness industry for 7 years but I needed new challenges and de
 
 # My projects
 - Individual project - Testing [To Do List](http://app.czyitjestdlamnie.pl) application
-  - Test Cases and Bug Reports on [Trello Board](https://trello.com/b/Or7FnjIp)
+  - Test Cases and Bug Reports on [Trello Board](https://trello.com/b/Or7FnjIp/dominik-gronostajski-to-do-list-project)
