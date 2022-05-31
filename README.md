@@ -29,7 +29,7 @@ I have worked in fitness industry for 7 years but I needed new challenges and de
   - Reporting bugs
 
 # Certificates
-  - ISTQB - Soon
+  - ISTQB - Exam scheduled for July
 
 # Courses
   - [Become a Tester](https://sii.pl/en/trainings/offer/zostan-testerem/) - Sii Sp. Z o.o.
@@ -48,3 +48,5 @@ I have worked in fitness industry for 7 years but I needed new challenges and de
 # My projects
 - Individual project - Testing [To Do List](http://app.czyitjestdlamnie.pl) application
   - Test Cases and Bug Reports on [Trello Board](https://trello.com/b/Or7FnjIp/dominik-gronostajski-to-do-list-project)
+- Individual Project - [Mr. Buggy 2](http://demo.mrbuggy2.testarena.pl/zaloguj)
+  - Test Case Examples in [Excel](https://drive.google.com/drive/folders/1XhDolBy8aZeIzti4IxpTAcRvjvMcOTFj?usp=sharing)
