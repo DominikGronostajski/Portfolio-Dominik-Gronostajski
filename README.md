@@ -49,4 +49,4 @@ I have worked in fitness industry for 7 years but I needed new challenges and de
 - Individual project - Testing [To Do List](http://app.czyitjestdlamnie.pl) application
   - Test Cases and Bug Reports on [Trello Board](https://trello.com/b/Or7FnjIp/dominik-gronostajski-to-do-list-project)
 - Individual Project - [Mr. Buggy 2](http://demo.mrbuggy2.testarena.pl/zaloguj)
-  - Test Case Examples in [Excel](https://drive.google.com/drive/folders/1XhDolBy8aZeIzti4IxpTAcRvjvMcOTFj?usp=sharing)
+  - Test Case Examples in [Excel](https://docs.google.com/spreadsheets/d/1QRwnFBODwFDg-YUEDnVMCd4Rh6omDjI7/edit#gid=159157607)
