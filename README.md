@@ -32,7 +32,7 @@ I have worked in fitness industry for 7 years but I needed new challenges and de
   - ISTQB - Exam scheduled for July
 
 # Courses
-  - [Become a Tester](https://sii.pl/en/trainings/offer/zostan-testerem/) - Sii Sp. Z o.o.
+  - [Become a Tester](https://sii.pl/en/trainings/offer/zostan-testerem/) - Sii Sp. Z o.o. 05.2022
   - [Manual Software Testing - Workshop](https://kursy.czyitjestdlamnie.pl/kurs/273/warsztaty-testowanie-manualne-aplikacji-termin-10052022-1900-2130) - Ifs&Whiles 05.2022
   - Basic Postman - testing REST API - Udemy 05.2022
   - Oracle SQL Course - Learn how to write precise queries - Udemy 05.2022
