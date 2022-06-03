@@ -13,7 +13,7 @@ I have worked in fitness industry for 7 years but I needed new challenges and de
 # Tools
   - [ShareX](https://getsharex.com/), [PicPick](https://picpick.app/en/) - Screen capture software
   - [Postman](https://www.postman.com/) - Testing tool for REST API
-  - [Jira](https://www.atlassian.com/software/jira0), [qTest](https://www.tricentis.com/products/unified-test-management-qtest/test-case-manager), [TestLink](https://testlink.org), [Trello](https://trello.com/) - Issue tracking and project management tools for developers
+  - [Jira](https://www.atlassian.com/software/jira0), [qTest](https://www.tricentis.com/products/unified-test-management-qtest/test-case-manager), [TestLink](https://testlink.org), [Redmine](https://www.redmine.org/), [Trello](https://trello.com/) - Issue tracking, project and test case management tools for developers
   - [Oracle](https://www.oracle.com), [MySQL](https://www.mysql.com) - Database management systems
   - [MS Office](https://www.office.com), [MS Azure DevOps](https://azure.microsoft.com/pl-pl/services/devops)
   - [Linux](https://ubuntu.com) - Operating system
@@ -32,8 +32,9 @@ I have worked in fitness industry for 7 years but I needed new challenges and de
   - ISTQB - Exam scheduled for July
 
 # Courses
+  - [API HTTP Testing - Practical Workshop](https://www.czyitjestdlamnie.pl/warsztaty-testowanie-api-http) - Ifs&Whiles 06.2022
   - [Become a Tester](https://sii.pl/en/trainings/offer/zostan-testerem/) - Sii Sp. Z o.o. 05.2022
-  - [Manual Software Testing - Workshop](https://kursy.czyitjestdlamnie.pl/kurs/273/warsztaty-testowanie-manualne-aplikacji-termin-10052022-1900-2130) - Ifs&Whiles 05.2022
+  - [Manual Software Testing - Practical Workshop](https://kursy.czyitjestdlamnie.pl/kurs/273/warsztaty-testowanie-manualne-aplikacji-termin-10052022-1900-2130) - Ifs&Whiles 05.2022
   - Basic Postman - testing REST API - Udemy 05.2022
   - Oracle SQL Course - Learn how to write precise queries - Udemy 05.2022
   - [Practical Manual Software Testing](https://www.udemy.com/certificate/UC-593ec40a-be90-4c1f-aa00-0a6bc4270e15) - Udemy 04.2022
