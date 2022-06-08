@@ -4,11 +4,18 @@
 I have worked in fitness industry for 7 years but I needed new challenges and decided to pursue my other passions. Previously, I was looking for irregularities in human body, now I am dedicated to do the same with software. I have already taken first steps in testing and I hope to move forward fast. I offer an open mind and eagerness to learn new things and grow. I am looking forward to working with you!
 
 # Experience
-- Functional Games Tester, [Lionbridge Technologies](https://www.lionbridge.com), October 2021 - Present
+- Software Quality Assurance Tester, [Lionbridge Technologies](https://www.lionbridge.com), October 2021 - Present
 
 # Responsibilities:
-- Verifying that the product meet all functional requirement specifications, with black box, exploratory and user acceptance test methodologies.
-- Validating that product updates and enhancements have not introduced new bugs, with continuous functional and non-functional regression testing.
+- Using various tools and programs to gather useful information for found bugs
+- Providing feedback to game developers and offering quality improvement suggestions
+- Working in Azure DevOps environment
+- Functional evaluation of pre-released video game
+- Fulfilling the Test Cases and Test Tasks (BVT, soak tests, regression, retests, etc.)
+- Reporting functionality defects and graphical issues
+- Testing on various platforms
+- Creating simple documentation about the Title
+- Cooperating with a team of Testers
 
 # Tools
   - [ShareX](https://getsharex.com/), [PicPick](https://picpick.app/en/) - Screen capture software
