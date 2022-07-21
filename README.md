@@ -36,9 +36,6 @@ I have worked in fitness industry for 7 years but I needed new challenges and de
   - Creating test cases
   - Reporting bugs
 
-# Certificates
-  - ISTQB - Exam scheduled for July
-
 # Courses
   - [Introduction to Quality Assurance](https://www.udemy.com/certificate/UC-cbdab1e5-5284-49bc-bb20-58281b219aec/) - Udemy 06.2022
   - [API HTTP Testing - Practical Workshop](https://www.czyitjestdlamnie.pl/warsztaty-testowanie-api-http) - Ifs&Whiles 06.2022
