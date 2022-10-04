@@ -4,9 +4,20 @@
 I have worked in fitness industry for 7 years but I needed new challenges and decided to pursue my other passions. Previously, I was looking for irregularities in human body, now I am dedicated to do the same with software. I have already taken first steps in testing and I hope to move forward fast. I offer an open mind and eagerness to learn new things and grow. I am looking forward to working with you!
 
 # Experience
-- Software Quality Assurance Tester, [Lionbridge Technologies](https://www.lionbridge.com), October 2021 - Present
+Quality Assurance Test Specialist, [Lionbridge Technologies](https://www.lionbridge.com), September 2022 - Present
+- Using various tools and programs to gather useful information for found bugs
+- Providing feedback to game developers and offering quality improvement suggestions
+- Fulfilling the Test Cases and Test Tasks (BVT, soak tests, regression, retests, etc.)
+- Reporting functionality defects and graphical issues
+- Working in Azure DevOps environment
+- Working as a Software Test Engineer's backup
+- Training newly hired teammates
+- Creation of Daily Test Reports
+- Creation of Test Documentation
+- Creation of Test Tasks and Test Cases based on User Stories and Feature Documentation
+- Cooperating with a team of Testers
 
-# Responsibilities:
+Quality Assurance Test Associate, [Lionbridge Technologies](https://www.lionbridge.com), October 2021 - September 2022
 - Using various tools and programs to gather useful information for found bugs
 - Providing feedback to game developers and offering quality improvement suggestions
 - Working in Azure DevOps environment
@@ -14,7 +25,7 @@ I have worked in fitness industry for 7 years but I needed new challenges and de
 - Fulfilling the Test Cases and Test Tasks (BVT, soak tests, regression, retests, etc.)
 - Reporting functionality defects and graphical issues
 - Testing on various platforms
-- Creating simple documentation about the Title
+- Designing and executing Test Cases and Test Scenarios
 - Cooperating with a team of Testers
 
 # Tools
@@ -37,6 +48,7 @@ I have worked in fitness industry for 7 years but I needed new challenges and de
   - Reporting bugs
 
 # Courses
+  - [Software Testing Foundations] - LinkedIn 09.2022
   - [Introduction to Quality Assurance](https://www.udemy.com/certificate/UC-cbdab1e5-5284-49bc-bb20-58281b219aec/) - Udemy 06.2022
   - [API HTTP Testing - Practical Workshop](https://www.czyitjestdlamnie.pl/warsztaty-testowanie-api-http) - Ifs&Whiles 06.2022
   - [Become a Tester](https://sii.pl/en/trainings/offer/zostan-testerem/) - Sii Sp. Z o.o. 05.2022
