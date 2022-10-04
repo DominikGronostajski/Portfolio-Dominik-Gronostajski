@@ -48,7 +48,7 @@ Quality Assurance Test Associate, [Lionbridge Technologies](https://www.lionbrid
   - Reporting bugs
 
 # Courses
-  - [Software Testing Foundations] - LinkedIn 09.2022
+  - Software Testing Foundations - LinkedIn 09.2022
   - [Introduction to Quality Assurance](https://www.udemy.com/certificate/UC-cbdab1e5-5284-49bc-bb20-58281b219aec/) - Udemy 06.2022
   - [API HTTP Testing - Practical Workshop](https://www.czyitjestdlamnie.pl/warsztaty-testowanie-api-http) - Ifs&Whiles 06.2022
   - [Become a Tester](https://sii.pl/en/trainings/offer/zostan-testerem/) - Sii Sp. Z o.o. 05.2022
